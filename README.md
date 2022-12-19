@@ -1,13 +1,14 @@
-###### **Hey👋, I'm Henry**
+<h6><strong>Hey👋, I'm Henry</strong></h6>
 
-#### I'm an aspiring software developer currently studying at Kuressaare Ametikool
+<p>I'm an aspiring software developer currently studying at Kuressaare Ametikool</p>
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-###### **My projects:**
+<h6><strong>My projects:</strong></h6>
 
-*Currently my projects mostly just include school projects*
+<i>Currently my projects mostly just include school projects</i>
 
-* ./https://github.com/sander-aleks/KAK100Portfolio
+<ul>
+<li>https://github.com/sander-aleks/KAK100Portfolio</li>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
