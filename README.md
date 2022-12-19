@@ -1,6 +1,6 @@
-###### *Hey* 👋
+###### **Hey👋, I'm Henry**
 
-#### **I'm Henry, an aspiring software developer**
+#### I'm an aspiring software developer currently studying at Kuressaare Ametikool
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 ###### **My projects:**
