@@ -1,6 +1,8 @@
-######*Hey*###### 👋
+###### *Hey* 👋
 
-####**I'm Henry, an aspiring software developer**####
+#### **I'm Henry, an aspiring software developer**
+--------------------------------------------------------------------------------------------------------------------------------------------------
+##### My GitHub stats:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beeak&theme=react&show_icons=true)
 
