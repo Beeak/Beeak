@@ -1,4 +1,6 @@
-Hey I'm Henry!
+Hey 👋
+
+###I'm Henry, an aspiring software developer
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beeak&theme=react&show_icons=true)
 
