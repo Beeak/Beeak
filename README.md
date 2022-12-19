@@ -10,6 +10,7 @@
 
 <ul>
 <li><a href="https://github.com/sander-aleks/KAK100Portfolio">Portfolio for Kuressaare Ametikool's 100th birthday</li>
+</ul>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
