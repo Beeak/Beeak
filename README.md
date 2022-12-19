@@ -1,6 +1,7 @@
 <h2><strong>Hey👋, I'm Henry</strong></h2>
 
 <p>I'm an aspiring software developer currently studying at <a href="https://www.ametikool.ee/">Kuressaare Ametikool</a></p>
+
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h2><strong>My projects:</strong></h2>
