@@ -8,9 +8,16 @@
 
 <i>Currently my projects mostly just include school projects</i>
 
-<ul>
-<li><a href="https://github.com/sander-aleks/KAK100Portfolio">Portfolio for Kuressaare Ametikool's 100th birthday</li>
-</ul>
+ - Portfolio for Kuressaare Ametikool's 100th birthday - [LINK](https://github.com/sander-aleks/KAK100Portfolio)
+
+ - A website meant to help with babies first aid - [LINK](https://github.com/markheinmets/Beeeeeebid)
+
+ - Task management tool - [LINK](https://github.com/Beeak/task-management-app) | [WIKI](https://github.com/Beeak/task-management-app/wiki)
+
+<h2><strong>Currently working on:</strong></h2
+
+ - <strong>My final project at Kuressaare Ametikool:</strong>
+ An app made for planespotters for spotting overflying aircraft and collecting them - [LINK](https://github.com/Beeak/flight-app)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
