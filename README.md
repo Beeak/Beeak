@@ -8,6 +8,8 @@
 
 <i>Currently my projects mostly just include school projects</i>
 
+ - A website for a chosen artist, we chose the Imagine Dragons. My role here was to be the project lead / instructor for first classes. - [LINK](https://github.com/LiisaKaju/Projekt2)
+
  - Portfolio for Kuressaare Ametikool's 100th birthday - [LINK](https://github.com/sander-aleks/KAK100Portfolio)
 
  - A website meant to help with babies first aid - [LINK](https://github.com/markheinmets/Beeeeeebid)
